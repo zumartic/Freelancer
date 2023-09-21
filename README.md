@@ -30,3 +30,5 @@ Listaa firmoista joilla on alihankintatoimintaa
 | [https://www.tyontekijoita.fi/](Työntekijöitä.fi) | Alusta | IT-asiantuntijat ja lisäksi kaikkea muuta laidasta laitaan | Palvelu on osa Ukko.fi / SLP Group Oy:ta |
 | [https://www.upwork.com](Upwork) | Alusta | IT-asiantuntijat, kääntäjät, markkinointi, graafinen suunnittelu | Satunnaisesti kotimaisia tekijöitä ja toimeksiantoja |
 | [https://webscale.fi/rekry/yhteistyokumppaniksi/](Webscale) | Julkinen kumppaniverkosto | IT-asiantuntijat |
+
+Test
