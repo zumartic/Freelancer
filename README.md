@@ -1,5 +1,3 @@
-## Listaa firmoista joilla on alihankintatoimintaa
-
 IT-Asiantuntijat, tarkoittaa tässä yhteydessä tehtävänimekkeitä kuten: devaaja, sovelluskehittäjä, sovellusarkkitehti, scrum master, full-stack-, backend-, tai frontend-kehittäjä, määrittelijä, testausasiantuntija, ux-designer, tietoturva-asiantuntija, data-engineer, kouluttaja tai konsultti.
 
 | **Yritys** | **Tyyppit** | **Erikoistumisalue** | **Lisätietoja** |
