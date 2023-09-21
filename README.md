@@ -1,0 +1,1 @@
+Listaa firmoista joilla on alihankintatoimintaa ja jonkinlaista keikkalistaa.
