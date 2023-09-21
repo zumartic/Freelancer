@@ -1,3 +1,5 @@
+Listaa firmoista joilla on alihankintatoimintaa
+
 | **Yritys** | **Tyyppit** | **Erikoistumisalue** | **Lisätietoja** |
 | [https://www.rootsof.ai/](AI Roots) | Julkinen kumppaniverkosto, Välittäjä & Agentuuri | Tiedolla johtaminen, analytiikka, data science | AI Roots on osa Bravedoa |
 | [https://buutticonsulting.com/buutti-job-hotline/](Buutti) | Välittäjä & Agentuuri | IT-asiantuntijat |
