@@ -30,3 +30,5 @@ IT-Asiantuntijat, tarkoittaa tässä yhteydessä tehtävänimekkeitä kuten: dev
 | [Työntekijöitä.fi](https://www.tyontekijoita.fi/) | Alusta | IT-asiantuntijat ja lisäksi kaikkea muuta laidasta laitaan | Palvelu on osa Ukko.fi / SLP Group Oy:ta |
 | [Upwork](https://www.upwork.com) | Alusta | IT-asiantuntijat, kääntäjät, markkinointi, graafinen suunnittelu | Satunnaisesti kotimaisia tekijöitä ja toimeksiantoja |
 | [Webscale](https://webscale.fi/rekry/yhteistyokumppaniksi/) | Julkinen kumppaniverkosto | IT-asiantuntijat |
+| [Witted](https://witted.com/) | Julkinen kumppaniverkosto | IT-asiantuntijat |
+
